@@ -13,9 +13,8 @@ HTML, CSS, JavaScript, OpenWeather
 
 ## Installation
 ```bash
-git clone https://github.com/username/weather-app.git
-cd weather-app
-npm install
-npm start
+git clone https://github.com/li4nuks/Weather-Site
+cd Weather-Site
+index.html
 ```
 Or donwload .ZIP
